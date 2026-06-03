@@ -35,5 +35,5 @@ Este proyecto fue desarrollado aplicando conceptos clave de Programación Orient
 
 * **Flecha Derecha (`→`):** Caminar hacia adelante.
 * **Flecha Izquierda (`←`):** Caminar hacia atrás.
-* **Flecha Arriba (`↑`):** Saltar (solo desde el suelo/isla).
-* **Click Izquierdo del Mouse:** Disparar magia en la dirección del cursor.
+* **Flecha Arriba (`↑`):** Saltar.
+* **Click Izquierdo del Mouse:** Disparar en dirección del cursor.
