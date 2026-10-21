@@ -29,7 +29,7 @@ Este proyecto fue desarrollado aplicando conceptos clave de Programación Orient
 
 1. Cloná este repositorio o descargá el código fuente:
    ```bash
-   git clone [https://github.com/ValentinaJaimes/https://github.com/ValentinaJaimes/TP-Progra1-1c2026.git]
+   git clone https://github.com/ValentinaJaimes/TP-Progra1-1c2026.git
    
 2. Controles de Juego 🕹️
 
